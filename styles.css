@@ -12,3 +12,5 @@ header{background:#050608eF;border-bottom:1px solid #b897584f;box-shadow:0 6px 3
 .signature{margin-bottom:3px}.signature-note{font-size:10px;color:#acaaa6;letter-spacing:.04em}.button{transition:transform .2s,filter .2s}.button:hover{transform:translateY(-2px)}.footer-row{border-top-color:#8b744445}
 @media(max-width:650px){.nav{min-height:76px}.brand-crest{width:42px;height:42px;font-size:14px}.brand{font-size:14px}.hero{min-height:670px}.hero-content{padding:65px 0}.section{padding:70px 0}.qualities{gap:9px}.qualities>span{padding:0 6px}.hero h1{font-size:clamp(44px,11vw,66px)}}
 .certificate-real{background:#101010;border:1px solid #b59457;padding:14px;box-shadow:0 16px 45px #0006;text-align:center}.certificate-real img{width:100%;height:auto;display:block;border:1px solid #82643e}.certificate-real a{display:inline-block;margin:18px 4px 2px;font-size:11px;letter-spacing:.14em;color:var(--gold);text-decoration:none}.certificate-real a:hover{text-decoration:underline}.brand-crest{display:none}
+
+.brand-logo{width:74px;height:74px;object-fit:contain;border-radius:50%}@media(max-width:650px){.brand-logo{width:48px;height:48px}.nav{gap:8px}.brand{gap:7px}}
