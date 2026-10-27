@@ -17,3 +17,6 @@ header{background:#050608eF;border-bottom:1px solid #b897584f;box-shadow:0 6px 3
 
 /* Design 2: restrained gold framing and a more compact editorial layout. */
 :root{--bg:#050a10;--gold:#dfb768;--pale:#f8f4ec;--muted:#d3d2cf}body{background:#050a10}.nav{min-height:86px}.hero{min-height:690px}.hero-content{padding:85px 0}.hero h1{max-width:900px;font-size:clamp(48px,6vw,82px)}.section{padding:76px 0}.shade{background:linear-gradient(125deg,#070e16,#101925)}.panel{background:#08111b;border:1px solid #a7834b}.panel h3{letter-spacing:.04em}.results{grid-template-columns:1.05fr 1fr}.certificate-real{padding:6px;outline:1px solid #9d793f;outline-offset:5px}.certificate-real img{border:0}.button{border-radius:3px}.button.gold{background:linear-gradient(#f3d28a,#b98536)}.business-image,.visual-panel{border-color:#9d793f}.footer-row{padding:25px 0}@media(max-width:650px){.hero{min-height:620px}.hero-content{padding:60px 0}.section{padding:58px 0}.about-layout,.results,.business{gap:36px}.certificate-real{margin:5px}.nav{min-height:76px}}
+
+/* London hero artwork inspired by the approved second concept. */
+.hero{background-image:linear-gradient(180deg,#05091165 0%,#0509114d 46%,#050a10e8 100%),url('assets/london-hero.webp');background-position:center;background-size:cover}.hero h1{text-shadow:0 3px 18px #000,0 1px 5px #000}.hero .strap{text-shadow:0 2px 8px #000}
