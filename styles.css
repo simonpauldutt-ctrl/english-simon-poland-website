@@ -47,3 +47,5 @@ header{background:#050608eF;border-bottom:1px solid #b897584f;box-shadow:0 6px 3
 .about-signature{height:auto;transform:scaleY(.5);transform-origin:left center;margin-top:-2px;margin-bottom:-15px}
 
 .contact-logo{display:block;width:150px;height:150px;object-fit:contain;border-radius:50%;margin:0 auto 25px;box-shadow:0 0 0 1px #b9975d,0 10px 30px #0008}@media(max-width:650px){.contact-logo{width:125px;height:125px}}
+
+.qualities .quality-star{color:#e4b85f;font-size:15px;margin-right:5px}.brand small{display:flex;align-items:center;justify-content:center;gap:7px}.brand small:before,.brand small:after{content:'';height:1px;flex:1;max-width:26px;background:#eee9df}
