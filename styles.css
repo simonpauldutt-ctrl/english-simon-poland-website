@@ -40,3 +40,6 @@ header{background:#050608eF;border-bottom:1px solid #b897584f;box-shadow:0 6px 3
 .about-signature{display:block;width:150px;height:auto;margin:22px 0 5px}
 
 .brand-title span{color:#e4b85f}
+
+/* Simple single-page header */
+.header-contact{margin-left:auto;color:#e6c47f;border:1px solid #b9975d;text-decoration:none;padding:9px 16px;font:600 14px 'Cormorant Garamond',Georgia,serif;letter-spacing:.1em}.header-contact:hover{background:#d8b36c;color:#080c11}@media(max-width:500px){.header-contact{font-size:12px;padding:8px}.language{padding:8px;font-size:12px}.nav{gap:7px}.brand-title{font-size:12px}.brand-mark:before,.brand-mark:after{display:none}}
