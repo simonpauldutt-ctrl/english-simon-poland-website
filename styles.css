@@ -49,3 +49,5 @@ header{background:#050608eF;border-bottom:1px solid #b897584f;box-shadow:0 6px 3
 .contact-logo{display:block;width:150px;height:150px;object-fit:contain;border-radius:50%;margin:0 auto 25px;box-shadow:0 0 0 1px #b9975d,0 10px 30px #0008}@media(max-width:650px){.contact-logo{width:125px;height:125px}}
 
 .qualities .quality-star{color:#e4b85f;font-size:15px;margin-right:5px}.brand small{display:flex;align-items:center;justify-content:center;gap:7px}.brand small:before,.brand small:after{content:'';height:1px;flex:1;max-width:26px;background:#eee9df}
+
+.social-actions{gap:30px}.social-link{display:flex;flex-direction:column;align-items:center;gap:9px;color:#e4b85f;text-decoration:none;font:600 17px 'Cormorant Garamond',Georgia,serif;letter-spacing:.05em}.social-icon{display:grid;place-items:center;width:64px;height:64px;border:1px solid #b9975d;border-radius:50%;transition:background .2s,color .2s}.social-icon svg{width:34px;height:34px}.social-link:hover .social-icon{background:#dfb768;color:#080c11}.social-link:focus-visible{outline:2px solid #f1d596;outline-offset:5px}
