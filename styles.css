@@ -85,3 +85,5 @@ body{font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;line-height:1
 .programme-open:hover,.programme-open:focus-visible{background:linear-gradient(#f3d28a,#b98536);color:#08121c;border-color:#dfb768}
 
 .business-open{background:transparent;cursor:pointer}.business-open:hover{background:linear-gradient(#f3d28a,#b98536);color:#08121c}
+
+.privacy-open{background:transparent;border:0;color:var(--gold);font:inherit;text-decoration:underline;cursor:pointer;padding:.5rem 0}.privacy-dialog h3{color:var(--gold);margin:1.1em 0 .35em}.privacy-dialog p{line-height:1.55}
