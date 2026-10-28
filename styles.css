@@ -68,3 +68,5 @@ body{font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;line-height:1
 
 /* Keep header controls visible on narrow portrait screens. */
 @media(max-width:500px){.nav{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px;width:calc(100% - 28px);padding:10px 0;min-height:0}.nav .brand{grid-column:1 / -1;justify-self:start;max-width:100%;min-width:0}.nav .header-contact{grid-column:1;margin:0;justify-self:end}.nav .language{grid-column:2;justify-self:end;white-space:nowrap}.brand-title{white-space:normal}.brand-logo{width:42px;height:42px}}
+
+.business-image{background-image:linear-gradient(#07101a44,#07101a77),url('assets/business-coaching.webp');background-position:center;background-size:cover}
