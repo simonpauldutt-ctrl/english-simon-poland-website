@@ -72,3 +72,6 @@ body{font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;line-height:1
 .business-image{background-image:linear-gradient(#07101a44,#07101a77),url('assets/business-coaching.webp');background-position:center;background-size:cover}
 
 .business-photo{margin:0}.business-photo img{display:block;width:100%;height:auto;border:1px solid var(--gold)}.business-photo figcaption{color:var(--muted);font-size:15px;line-height:1.4;margin-top:10px}
+
+/* Keep the biography together and place the smaller building photo below the portrait. */
+.about-images{min-width:0}.about-images .business-photo{width:min(100%,290px);margin:24px auto 0}.about-images .business-photo img{width:100%;height:auto}.about-images .business-photo figcaption,.about-images .photo-credit{display:block;font-size:13px;line-height:1.35;margin-top:8px;color:#c5c4bf}@media(max-width:900px){.about-images .business-photo{margin:20px auto 0}}
