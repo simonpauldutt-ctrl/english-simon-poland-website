@@ -63,3 +63,5 @@ body{font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;line-height:1
 
 /* Coaching agreement's tier badges, adapted to the site's gold palette. */
 .tier-badge{width:70px;height:70px;border:1px solid #d9b46d;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#e2bb72;background:linear-gradient(145deg,#342918,#0b1119);box-shadow:inset 0 0 0 4px #10151a,inset 0 0 0 5px #9f7b44}.tier-badge span{font:600 9px/1 'Cormorant Garamond',Georgia,serif;letter-spacing:.2em}.tier-badge strong{font:600 29px/1.1 'Cormorant Garamond',Georgia,serif}.highlighted .tier-badge{border-color:#f0d18f;background:linear-gradient(145deg,#6e542b,#10151b)}
+
+#programmes .columns.three .panel:nth-child(3) .tier-badge{background:#d9b46d;color:#09111a;border-color:#edcf8e;box-shadow:inset 0 0 0 4px #d9b46d,inset 0 0 0 5px #98743c}
