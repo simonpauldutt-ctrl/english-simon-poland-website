@@ -75,3 +75,5 @@ body{font-family:'Cormorant Garamond',Georgia,serif;font-size:18px;line-height:1
 
 /* Keep the biography together and place the smaller building photo below the portrait. */
 .about-images{min-width:0}.about-images .business-photo{width:min(100%,290px);margin:24px auto 0}.about-images .business-photo img{width:100%;height:auto}.about-images .business-photo figcaption,.about-images .photo-credit{display:block;font-size:13px;line-height:1.35;margin-top:8px;color:#c5c4bf}@media(max-width:900px){.about-images .business-photo{margin:20px auto 0}}
+
+.about-images .business-photo{width:100%;margin:24px 0 0}.about-images .business-photo figcaption,.about-images .photo-credit{color:var(--pale);font:inherit;line-height:inherit}
